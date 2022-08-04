@@ -20,7 +20,7 @@ Integração com banco de dados MySQL
 
 
 # Exemplos de Resultados 
-<a target="_blank"><img src="https://github.com/Antunes1993/Cursos_Django/tree/main/results/Fig1.png" target="_blank" width=500></a>  
+<a target="_blank"><img src="https://github.com/Antunes1993/Cursos_Django/blob/main/main/results/Fig1.png" target="_blank" width=500></a>  
 <a target="_blank"><img src="https://github.com/Antunes1993/Cursos_Django/main/results/Fig2.png" target="_blank" width=500></a>  
 <a target="_blank"><img src="https://github.com/Antunes1993/Cursos_Django/main/results/Fig3.png" target="_blank" width=500></a>  
 <a target="_blank"><img src="https://github.com/Antunes1993/Cursos_Django/main/results/Fig4.png" target="_blank" width=500></a>  
