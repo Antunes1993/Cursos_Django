@@ -32,6 +32,8 @@ def cadastro(request):
 
 def login(request):
     if request.method == 'POST':
+        print (request)
+       
         email = request.POST['email']
         senha = request.POST['senha']
         if email == "" or senha == "":
