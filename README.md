@@ -2,7 +2,7 @@
 Trilha de Cursos Django
 
 Criação de uma plataforma para cadastro de receitas culinárias. 
-Funcionalidades: 
+# Funcionalidades: 
 
 Criação de Receitas
 Leitura de Receitas cadastradas
@@ -19,7 +19,7 @@ Sistema de autenticação para login.
 Integração com banco de dados MySQL
 
 
-# Results example 
+# Exemplos de Resultados 
 <a target="_blank"><img src="https://github.com/Antunes1993/Cursos_Django/main/results/Fig1.png" target="_blank" width=500></a>  
 <a target="_blank"><img src="https://github.com/Antunes1993/Cursos_Django/main/results/Fig2.png" target="_blank" width=500></a>  
 <a target="_blank"><img src="https://github.com/Antunes1993/Cursos_Django/main/results/Fig3.png" target="_blank" width=500></a>  
