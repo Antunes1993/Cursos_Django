@@ -4,19 +4,20 @@ Trilha de Cursos Django
 Criação de uma plataforma para cadastro de receitas culinárias. 
 # Funcionalidades: 
 
-Criação de Receitas
-Leitura de Receitas cadastradas
-Edição de Receitas Cadastradas
+Integração com banco de dados MySQL <br/>
 
-Criação de Usuários
-Leitura de Usuários Cadastrados
-Edição de Usuários Cadastrados
+Criação de Receitas <br/>
+Leitura de Receitas cadastradas <br/>
+Edição de Receitas Cadastradas <br/>
 
+Criação de Usuários <br/>
+Leitura de Usuários Cadastrados <br/>
+Edição de Usuários Cadastrados <br/>
 
-Ferramenta de Busca por conteúdo e por nome de usuário. 
-Sistema de autenticação para login. 
+Ferramenta de Busca por conteúdo e por nome de usuário. <br/> 
+Sistema de autenticação para login.  <br/>
+Sistema de gerenciamento de cadastros. <br/>
 
-Integração com banco de dados MySQL
 
 
 # Exemplos de Resultados 
